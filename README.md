@@ -15,24 +15,24 @@
 
 <ul>
   <li>HOME：具直覺性操作，可查看相關文章</li>
-    <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/index_1.jpg" width="680" height="400"/><br/>
-    <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/index_2.jpg" width="680" height="400"/><br/>
+    <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/index_1.jpg" width="680" height="400"/><br/>
+    <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/index_2.jpg" width="680" height="400"/><br/>
 
   <li>PRODUCTS：查看所有產品及留言</li>
-    <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/products.jpg" width="680" height="400"/><br/>
+    <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/products.jpg" width="680" height="400"/><br/>
     
   <li>LIST</li>
     <ul>
     <li>需先登入會員才可使用此功能</li>
-      <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/login.jpg" width="680" height="400"/><br/>
+      <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/login.jpg" width="680" height="400"/><br/>
     <li>若無會員，亦可選擇註冊</li>
-      <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/register.jpg" width="680" height="400"/><br/>
+      <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/register.jpg" width="680" height="400"/><br/>
     <li>登入後，可查看所收藏的清單</li>
-      <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/list_1.jpg" width="680" height="400"/><br/>
+      <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/list_1.jpg" width="680" height="400"/><br/>
     <li>登入後，亦可進行留言</li>
-      <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/list_2.jpg" width="680" height="400"/><br/>
+      <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/list_2.jpg" width="680" height="400"/><br/>
     </ul>
     
   <li>會員管理：可修改會員資料及密碼</li>
-    <img src="https://github.com/angieyao/scentedcandle/blob/main/md_pic/%E6%9C%83%E5%93%A1%E7%AE%A1%E7%90%86.jpg" width="680" height="400"/><br/>
+    <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/%E6%9C%83%E5%93%A1%E7%AE%A1%E7%90%86.jpg" width="680" height="400"/><br/>
 </ul>
