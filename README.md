@@ -1,5 +1,5 @@
 <ul>
-  <li>HOME: read articles and link to other pages.</li>
+  <li>HOME: provide articles to read and also link to other pages.</li>
     <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/index_1.jpg" width="680" height="400"/><br/>
     <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/index_2.jpg" width="680" height="400"/><br/>
 
@@ -10,7 +10,7 @@
     <ul>
     <li>Log in or register first to use this to make your list.</li>
       <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/login.jpg" width="680" height="400"/><br/>
-    <li>Input information to register.</li>
+    <li>Input information to register as a member.</li>
       <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/register.jpg" width="680" height="400"/><br/>
     <li>Log in to edit your list</li>
       <img src="https://github.com/angieyao/scentedcandle/blob/master/md_pic/list_1.jpg" width="680" height="400"/><br/>
